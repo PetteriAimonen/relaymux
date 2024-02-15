@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "relaymux")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/relaymux.kicad_sym")(options "")(descr ""))
+)
