@@ -1,0 +1,2 @@
+- Reverse led footprint, hole too large
+- Switch footprint, misaligned NPTH
